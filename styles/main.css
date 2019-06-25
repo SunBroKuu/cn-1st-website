@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
 .PrimaryNav {
   list-style: none;
   margin: 50px auto;
@@ -144,13 +144,11 @@ html {
   font-family: sans-serif;
   text-align: center;
 }
-.font {
-
-}
 .custom {
-  font-family: fantasy;
-  color: #333333;  font-size: 125%
+  font-family: 'Arvo', serif;
+  color: #333333;
 }
+
 html { 
   background: url(/images/white-wallpaper-11.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
