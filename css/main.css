@@ -151,6 +151,6 @@ html {
 
 html {
   background-image: url("/images/DUOKnkM.png"); /* may need to be adjusted depending on how you build your page */
-  background-size: cover;
+  background-size: 100%
 }
 /* adasd */
