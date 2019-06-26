@@ -134,7 +134,7 @@
 }
 
 html {
-  background-color: white;
+  /*background-color: white;*/
   font-family: 'Arvo', serif;
   font-weight: 800;
 }
@@ -150,5 +150,6 @@ html {
 }
 
 html {
-  background: url(images/white-wallpaper-11.jpg);
+  background-image: url(/images/background.jpg); /* may need to be adjusted depending on how you build your page */
+  background-size: cover;
 }
