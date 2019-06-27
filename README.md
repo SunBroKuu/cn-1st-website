@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/h6xRbX0tEqLhiOf3GU/giphy.gif" alt="">
 
-![](http://i.imgur.com/60bts.gif)
+![](https://i.imgur.com/zSckUUG.gif)
 
 ![test](https://media.giphy.com/media/h6xRbX0tEqLhiOf3GU/giphy.gif)
 
