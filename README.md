@@ -7,4 +7,4 @@
 
 ![test](https://media.giphy.com/media/h6xRbX0tEqLhiOf3GU/giphy.gif)
 
-![]https://i.imgur.com/waIMgNL.png
+![](https://i.imgur.com/waIMgNL.png)
