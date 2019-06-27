@@ -1,10 +1,4 @@
 # Final version of website for the HTML and CSS portions the Code Nation develop coding course.
 
 
-<img src="https://media.giphy.com/media/h6xRbX0tEqLhiOf3GU/giphy.gif" alt="">
-
-![](https://i.imgur.com/zSckUUG.gif)
-
-![test](https://media.giphy.com/media/h6xRbX0tEqLhiOf3GU/giphy.gif)
-
-![](https://i.imgur.com/waIMgNL.png)
+<div align="center">![](https://i.imgur.com/waIMgNL.png)</div>
